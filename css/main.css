@@ -45,12 +45,14 @@ main {
 	border:3px solid white;
 	width: 40%;
 	clear: left;
+	height: 200px;
 }
 a {
 	text-decoration: none;
 	height:50px;
 	width:250px;
 	border:3px solid white;
+	color: #cb3535;
 }
 #text {
 	float: right;
